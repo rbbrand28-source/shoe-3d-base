@@ -1,0 +1,11 @@
+shoe-3d-base/
+├─ index.html
+├─ package.json
+├─ postcss.config.cjs
+├─ tailwind.config.cjs
+├─ vite.config.js
+├─ README.md
+└─ src/
+   ├─ main.jsx
+   ├─ App.jsx
+   └─ index.css
